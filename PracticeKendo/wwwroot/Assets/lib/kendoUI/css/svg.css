@@ -1,0 +1,243 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 49,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 6930,
+                        "y": 7764,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6930,
+                        "y": 7764,
+                        "timing": 104
+                    }
+                ],
+                "extraData": "",
+                "description": "1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 50,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 7439,
+                        "y": 5789,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7439,
+                        "y": 5789,
+                        "timing": 128
+                    }
+                ],
+                "extraData": "",
+                "description": "2",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 51,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 8578,
+                        "y": 4875,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8586,
+                        "y": 4875,
+                        "timing": 60
+                    },
+                    {
+                        "x": 8586,
+                        "y": 4875,
+                        "timing": 143
+                    }
+                ],
+                "extraData": "",
+                "description": "3",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 66,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 5044,
+                        "y": 8956,
+                        "timing": 0
+                    },
+                    {
+                        "x": 5044,
+                        "y": 8956,
+                        "timing": 93
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 9,
+                "secondKey": 0,
+                "origin": {
+                    "x": 9294,
+                    "y": 378
+                },
+                "macros": "size 1600 900\rondown\rtouch 1488 40\ronup\rtouch 1490 130\r\r",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 13,
+                "secondKey": 0,
+                "origin": {
+                    "x": 9600,
+                    "y": 3667
+                },
+                "macros": "size 1600 900\rtouch 1550 342\rwait 300\rtouch 1450 692\r",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 90,
+                "secondKey": 0,
+                "origin": {
+                    "x": 1994,
+                    "y": 3111
+                },
+                "macros": "size 1600 900\rondown\rtouch 321 280\ronup\rtouch 765 611\r",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 81,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": false,
+                "syntropyMove": false,
+                "synchronousMove": false,
+                "origin": {
+                    "x": 7419,
+                    "y": 8778
+                },
+                "radius": 945,
+                "indicatorRadius": 1874,
+                "description": "1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "extraData": ""
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 70,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": false,
+                "syntropyMove": false,
+                "synchronousMove": false,
+                "origin": {
+                    "x": 6550,
+                    "y": 8689
+                },
+                "radius": 945,
+                "indicatorRadius": 823,
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "extraData": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 67,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 5805,
+                        "y": 8972,
+                        "timing": 0
+                    },
+                    {
+                        "x": 5805,
+                        "y": 8972,
+                        "timing": 128
+     

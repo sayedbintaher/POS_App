@@ -1,0 +1,55 @@
+       "key": 70,
+                "secondKey": 0,
+                "origin": {
+                    "x": 6631,
+                    "y": 5102
+                },
+                "macros": "size 1600 900\rpress-1 1022 458",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 71,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 4930,
+                        "y": 6456,
+                        "timing": 0
+                    },
+                    {
+                        "x": 4930,
+                        "y": 6456,
+                        "timing": 131
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDrag",
+            "data": {
+                "key": 18,
+                "mode": 0,
+                "origin": {
+                    "x": 5457,
+                    "y": 2923
+                },
+                "sensitivity": 3,
+                "sensitivity_y": 3,

@@ -1,0 +1,49 @@
+},
+                "radius": 847,
+                "indicatorRadius": 2160,
+                "description": "",
+                "moreDescription": "",
+                "extraData": "LowDelay",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 81,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": false,
+                "syntropyMove": false,
+                "synchronousMove": false,
+                "origin": {
+                    "x": 7411,
+                    "y": 8646
+                },
+                "radius": 945,
+                "indicatorRadius": 2160,
+                "description": "1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": -13,
+                    "y": -34
+                },
+                "extraData": ""
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 87,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": false,
+                "noDirection": true,
+                "syntropyMove": false,
+                "synchrono

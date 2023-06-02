@@ -1,0 +1,156 @@
+{
+    "joystickMappings": [
+        {
+            "class": "ClassJoystickDisc",
+            "data": {
+                "key": {
+                    "firstKey": 266,
+                    "secondKey": 0
+                },
+                "type": 0,
+                "origin": {
+                    "x": 1405,
+                    "y": 7253
+                },
+                "radius": 772,
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassJoystickMacros",
+            "data": {
+                "key": {
+                    "firstKey": 264,
+                    "secondKey": 0
+                },
+                "origin": {
+                    "x": 9321,
+                    "y": 374
+                },
+                "macros": "size 2340 1080\rondown\rtouch 2177 37\ronup\rwait 60\rtouch 2177 37",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 270,
+                    "secondKey": 256
+                },
+                "point": {
+                    "x": 9801,
+                    "y": 1379
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "downDurationEx": 100000,
+                "upDurationEx": 100000,
+                "description": "1",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 270,
+                    "secondKey": 258
+                },
+                "point": {
+                    "x": 9801,
+                    "y": 2442
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "downDurationEx": 100000,
+                "upDurationEx": 100000,
+                "description": "2",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 270,
+                    "secondKey": 257
+                },
+                "point": {
+                    "x": 9805,
+                    "y": 3505
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "downDurationEx": 100000,
+                "upDurationEx": 100000,
+                "description": "3",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassJoystickDisc",
+            "data": {
+                "key": {
+                    "firstKey": 270,
+                    "secondKey": 267
+                },
+                "type": 0,
+                "origin": {
+                    "x": 8432,
+                    "y": 1717
+                },
+                "radius": 1500,
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassJoystickDisc",
+            "data": {
+                "key": {
+                    "firstKey": 265,
+                    "secondKey": 266
+                },
+  

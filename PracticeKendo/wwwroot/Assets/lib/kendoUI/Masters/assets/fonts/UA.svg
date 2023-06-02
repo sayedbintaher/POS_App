@@ -1,0 +1,52 @@
+,
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 258,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 8375,
+                    "y": 9279
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "downDurationEx": 100000,
+                "upDurationEx": 100000,
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 256,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 8859,
+                    "y": 7572
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "downDurationEx": 100000,
+                "upDurationEx": 100000,
+               

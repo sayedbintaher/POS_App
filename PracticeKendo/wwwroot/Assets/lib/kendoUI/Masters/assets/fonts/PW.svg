@@ -1,0 +1,55 @@
+
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 50,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 5367,
+                    "y": 9194
+                },
+                "radius": 945,
+                "indicatorRadius": 1710,
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 51,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 6094,
+                    "y": 9236
+                },
+                "radius": 945,
+                "indicatorRadius": 1710,
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+    

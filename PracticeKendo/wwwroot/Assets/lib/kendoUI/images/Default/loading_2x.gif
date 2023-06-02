@@ -1,0 +1,173 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 49,
+                "curve": [
+                    {
+                        "x": 6930,
+                        "y": 7764,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6930,
+                        "y": 7764,
+                        "timing": 104
+                    }
+                ],
+                "description": "1"
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 50,
+                "curve": [
+                    {
+                        "x": 7439,
+                        "y": 5789,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7439,
+                        "y": 5789,
+                        "timing": 128
+                    }
+                ],
+                "description": "2"
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 51,
+                "curve": [
+                    {
+                        "x": 8578,
+                        "y": 4875,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8586,
+                        "y": 4875,
+                        "timing": 60
+                    },
+                    {
+                        "x": 8586,
+                        "y": 4875,
+                        "timing": 143
+                    }
+                ],
+                "description": "3"
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 66,
+                "curve": [
+                    {
+                        "x": 5044,
+                        "y": 8956,
+                        "timing": 0
+                    },
+                    {
+                        "x": 5044,
+                        "y": 8956,
+                        "timing": 93
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardMacrosInner",
+            "data": {
+                "key": 9,
+                "origin": {
+                    "x": 9294,
+                    "y": 378
+                },
+                "macros": "size 1600 900\rondown\rtouch 1488 40\ronup\rtouch 1490 130\r\r",
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardDisc",
+            "data": {
+                "type": 0,
+                "origin": {
+                    "x": 1413,
+                    "y": 7900
+                },
+                "radius": 805,
+                "leftKey": 65,
+                "upKey": 87,
+                "rightKey": 68,
+                "downKey": 83,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardMacrosInner",
+            "data": {
+                "key": 13,
+                "origin": {
+                    "x": 9600,
+                    "y": 3667
+                },
+                "macros": "size 1600 900\rtouch 1550 342\rwait 300\rtouch 1450 692\r",
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardMacrosInner",
+            "data": {
+                "key": 2,
+                "origin": {
+                    "x": 9078,
+                    "y": 8486
+                },
+                "macros": "size 1600 900\rtouch 1465 771 80\r",
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardMacrosInner",
+            "data": {
+                "key": 90,
+                "origin": {
+                    "x": 1994,
+                    "y": 3111
+                },
+                "macros": "size 1600 900\rondown\rtouch 321 280\ronup\rtouch 765 611\r",
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 81,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 7419,
+                    "y": 8778
+                },
+                "radius": 945,
+                "indicatorRadius": 682,
+                "description": "1"
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 82,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 9063,
+                    "y": 5844
+                },
+               

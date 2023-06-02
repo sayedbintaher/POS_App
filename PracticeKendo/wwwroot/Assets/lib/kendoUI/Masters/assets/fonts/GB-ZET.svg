@@ -1,0 +1,45 @@
+ey": 0,
+                "curve": [
+                    {
+                        "x": 7291,
+                        "y": 2709,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7291,
+                        "y": 2709,
+                        "timing": 81
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 86,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 7291,
+                        "y": 3962,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7291,
+                        "y": 3962,
+                        "timing": 79
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+           

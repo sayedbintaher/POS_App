@@ -1,0 +1,130 @@
+          "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 32,
+                "secondKey": 0,
+                "origin": {
+                    "x": 9131,
+                    "y": 2088
+                },
+                "macros": "type=cancel",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "MacroData size 1600 900\ronup\rtouch 1486 111",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 88,
+                "secondKey": 0,
+                "origin": {
+                    "x": 9448,
+                    "y": 6445
+                },
+                "macros": "size 1600 900\rtouch 1514 576",
+                "description": "/",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 16,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": false,
+                "syntropyMove": false,
+                "synchronousMove": false,
+                "origin": {
+                    "x": 7684,
+                    "y": 2731
+                },
+                "radius": 945,
+                "indicatorRadius": 1105,
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "extraData": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 90,
+                "secondKey": 0,
+                "origin": {
+                    "x": 8204,
+                    "y": 9289
+                },
+                "macros": "size 1600 900\rtouch 1313 831",
+                "description": "/",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 112,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9765,
+                        "y": 1400,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9765,
+                        "y": 1400,
+                        "timing": 153
+                    }
+                ],
+                "extraData": "",
+                "description": "1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 113,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9765,
+                        "y": 2472,
+                        "timing": 0
+                  

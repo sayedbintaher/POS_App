@@ -1,0 +1,54 @@
+            }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 84,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": false,
+                "syntropyMove": false,
+                "synchronousMove": false,
+                "origin": {
+                    "x": 9461,
+                    "y": 6343
+                },
+                "radius": 945,
+                "indicatorRadius": 2160,
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "extraData": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 70,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 5070,
+                        "y": 7720,
+                        "timing": 0
+                    },
+                    {
+                        "x": 5070,
+                        "y": 7720,
+                        "timing": 92
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+              

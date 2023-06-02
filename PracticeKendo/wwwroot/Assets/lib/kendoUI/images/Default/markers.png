@@ -1,0 +1,36 @@
+ize 1600 900\rondown\rtouch 321 280\ronup\rtouch 765 611\r",
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 81,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 7419,
+                    "y": 8778
+                },
+                "radius": 945,
+                "indicatorRadius": 682,
+                "description": "1"
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 82,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 9063,
+                    "y": 5844
+                },
+                "radius": 945,
+                "indicatorRadius": 2646,
+                "description": "3"
+            }
+        },
+        {
+            "class": "ClassMouse

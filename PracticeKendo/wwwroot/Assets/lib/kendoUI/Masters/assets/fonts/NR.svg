@@ -1,0 +1,69 @@
+ true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 70,
+                "secondKey": 0,
+                "origin": {
+                    "x": 5044,
+                    "y": 7800
+                },
+                "macros": "size 1600 900\rpress-0 844 700\rpress-1 811 568",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 52,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 4050,
+                        "y": 8867,
+                        "timing": 0
+                    },
+                    {
+                        "x": 4050,
+                        "y": 8867,
+                        "timing": 87
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 69,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9475,
+                        "y": 3633,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9475,
+                        "y": 3622,
+        

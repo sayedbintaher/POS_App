@@ -1,0 +1,149 @@
+               "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 70,
+                "secondKey": 0,
+                "origin": {
+                    "x": 9492,
+                    "y": 2111
+                },
+                "macros": "size 1280 720\rtouch 1157 143",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 67,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 3758,
+                        "y": 5681,
+                        "timing": 0
+                    },
+                    {
+                        "x": 3758,
+                        "y": 5681,
+                        "timing": 98
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 32,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9391,
+                        "y": 9222,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9391,
+                        "y": 9222,
+                        "timing": 63
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 89,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 2422,
+                        "y": 3917,
+                        "timing": 0
+                    },
+                    {
+                        "x": 2422,
+                        "y": 3917,
+                        "timing": 84
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 84,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9469,
+                        "y": 7153,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9469,
+                        "y": 7153,
+                        "timing": 90
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 66,
+                "secondKey": 0,
+                "origin": {
+                    "x": 9181,
+                    "y": 578
+                },
+                "macros": "size 1600 900\rtouch 1475 53\rswitch-mouse",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffse

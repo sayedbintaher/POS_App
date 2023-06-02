@@ -1,0 +1,82 @@
+                 "y": 8633
+                },
+                "radius": 775,
+                "indicatorRadius": 1772,
+                "description": "1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "extraData": ""
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 87,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": true,
+                "syntropyMove": false,
+                "synchronousMove": false,
+                "origin": {
+                    "x": 8120,
+                    "y": 7172
+                },
+                "radius": 775,
+                "indicatorRadius": 1738,
+                "description": "2",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "extraData": ""
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 69,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": true,
+                "syntropyMove": false,
+                "synchronousMove": false,
+                "origin": {
+                    "x": 8552,
+                    "y": 5886
+                },
+                "radius": 775,
+                "indicatorRadius": 1600,
+                "description": "3",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "extraData": ""
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 82,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": false,
+                "syntropyMove": false,
+                "synchronousMove": false,
+                "origin": {
+                    "x": 9209,
+                    "y": 5210
+                },
+                "radius": 775,
+              

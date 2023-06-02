@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<script src="~/Assets/lib/CommonUI/js/pos.js"></script>
+<div class="container">
+    <div class="row mb-2">
+        <div class=" col-md-6 p-0 pe-2">
+            <span>Customer Name</span> <input id="customerName" class="textbox" style="width:100%" />
+        </div>
+        <div class="col-md-6 p-0">
+            <span>Customer Phone</span> <input id="customerPhone" class="textbox" style="width:100%" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-10">
+
+        </div>
+        <div class="col-md-2">
+            <button id="add-new-btn" type="button" class="btn btn-primary w-100" onclick="AddNewRow()">Add New</button>
+        </div>
+    </div>
+  
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Product Name</th>
+                <th scope="col">Price</th>
+                <th scope="col">Quantity</th>
+            </tr>
+        </thead>
+        <tbody id="tbodyRowAdd">
+            <tr>
+                <td id="serial1">1</td>
+                <td><input id="ddlProduct1" style="width:100%" /></td>
+                <td><input id="productPrice1" class="textbox" style="width:100%" /></td>
+                <td><input id="productQuantity1" class="textbox" style="width:100%" /></td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="row">
+        <div class="col-md-8">
+
+        </div>
+        <div class="col-md-2">
+            <button id="saveInvoice" type="button" class="btn btn-primary w-100" onclick="SaveSingleInvoice()">Single Invoice</button>
+        </div>
+        <div class="col-md-2">
+            <button id="saveInvoice" type="button" class="btn btn-primary w-100" onclick="saveInvoice()">Add Invoice</button>
+        </div>
+    </div>
+
+</div>

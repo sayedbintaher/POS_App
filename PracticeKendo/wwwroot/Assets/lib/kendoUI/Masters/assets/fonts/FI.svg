@@ -1,0 +1,42 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 66,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 2906,
+                        "y": 8770,
+                        "timing": 0
+                    },
+                    {
+                        "x": 2906,
+                        "y": 8770,
+                        "timing": 72
+                    }
+                ],
+                "extraData": "BackToCity",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 17,
+                "secondKey": 0,
+                "origin": {
+                    "x": 761,
+                    "y": 9244
+                },
+                "macros": "type=mouse-lock",
+                "description": "",
+                "moreDescription": "",
+ 

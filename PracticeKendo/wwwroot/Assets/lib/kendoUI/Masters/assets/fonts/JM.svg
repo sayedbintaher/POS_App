@@ -1,0 +1,85 @@
+econdKey": 0,
+                "curve": [
+                    {
+                        "x": 8453,
+                        "y": 9333,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8453,
+                        "y": 9333,
+                        "timing": 111
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardWidget",
+            "data": {
+                "key": 136,
+                "center": {
+                    "x": 5261,
+                    "y": 1167
+                },
+                "size": {
+                    "x": 3000,
+                    "y": 800
+                },
+                "simpleText": "<f 6><b>press Ctrl to lock/unlock mouse</b></f>",
+                "resourceFile": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 38,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 8543,
+                        "y": 6291,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8543,
+                        "y": 6291,
+                        "timing": 78
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 40,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 8543,
+                        "y": 8341,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8543,
+                        "y": 8341,
+                        "timing": 83
+                    }
+                ],
+                "extraData": "",
+   

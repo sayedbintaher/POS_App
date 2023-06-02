@@ -1,0 +1,86 @@
+ "ClassKeyboardMacros",
+            "data": {
+                "key": 81,
+                "secondKey": 0,
+                "origin": {
+                    "x": 6356,
+                    "y": 9222
+                },
+                "macros": "size 1600 900\rtouch 1052 809\rwait 50 \rtouch 928 673",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 69,
+                "secondKey": 0,
+                "origin": {
+                    "x": 6519,
+                    "y": 8633
+                },
+                "macros": "size 1600 900\rtouch 1052 809\rwait 50 \rtouch 1054 562\r",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 88,
+                "secondKey": 0,
+                "origin": {
+                    "x": 6719,
+                    "y": 9211
+                },
+                "macros": "size 1600 900\rtouch 1052 809\rwait 50 \rtouch 1172 675",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 38,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 1575,
+                        "y": 6156,
+                        "timing": 0
+                    },
+                    {
+                        "x": 1575,
+                        "y": 6156,
+                        "timing": 83
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+  

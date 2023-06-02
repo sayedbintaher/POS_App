@@ -1,0 +1,63 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 50,
+                "secondKey": 0,
+                "origin": {
+                    "x": 9113,
+                    "y": 1922
+                },
+                "macros": "size 1600 900\rtouch 1543 172\rtouch 1241 377\r",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 49,
+                "secondKey": 0,
+                "origin": {
+                    "x": 8600,
+                    "y": 1922
+                },
+                "macros": "size 1600 900\rtouch 1543 172\rtouch 915 382",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 51,
+                "secondKey": 0,
+                "origin": {
+                    "x": 9625,
+                    "y": 1900
+                },
+                "macros": "size 1600 900\rtouch 1543 172\rtouch 913 485\r",
+                "description": "",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+       

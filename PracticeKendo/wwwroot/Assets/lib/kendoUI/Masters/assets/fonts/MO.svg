@@ -1,0 +1,119 @@
+ "y": 519,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8495,
+                        "y": 519,
+                        "timing": 71
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 51,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 8488,
+                        "y": 1194,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8488,
+                        "y": 1194,
+                        "timing": 96
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 50,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9600,
+                        "y": 543,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9600,
+                        "y": 543,
+                        "timing": 96
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 52,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9600,
+                        "y": 1218,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9600,
+                        "y": 1218,
+                        "timing": 87
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 155,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 7980,
+                        "y": 507,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7980,
+                        "y": 507,
+                        "timing": 69
+                    }
+                ],
+                "extraData": "",
+                "des
