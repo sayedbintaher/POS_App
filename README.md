@@ -1,1 +1,2 @@
-# PracticeKendo
+--> POS Software with ASP .Net Core Web Api and Kendo UI. 
+--> Architecture followed: Layer Architecture
