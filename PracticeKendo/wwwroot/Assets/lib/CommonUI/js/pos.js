@@ -12,10 +12,10 @@ $(document).ready(function () {
 
 function CreateDropdowns() {
     $("#ddlProduct1").kendoComboBox({
-        placeholder: 'Select Court Type',
+        placeholder: 'Select Product',
         dataTextField: "productName",
         dataValueField: "id",
-        dataSource: productList
+        dataSource: []
     });
 }
 
@@ -27,6 +27,7 @@ function bindDropDownData() {
         success: function (data) {
             console.log(data);
             productList = data;
+             $("#ddlProduct1").data('kendoComboBox').dataSource.data(productList);
             CreateDropdowns();
         }
     });
