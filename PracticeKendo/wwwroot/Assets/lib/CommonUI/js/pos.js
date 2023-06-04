@@ -7,17 +7,14 @@ var invoice;
 var i = 1
 
 $(document).ready(function () {
-    bindDropDownData();
-});
-
-function CreateDropdowns() {
     $("#ddlProduct1").kendoComboBox({
         placeholder: 'Select Product',
         dataTextField: "productName",
         dataValueField: "id",
         dataSource: []
     });
-}
+    bindDropDownData();
+});
 
 function bindDropDownData() {
     $.ajax({
@@ -28,7 +25,6 @@ function bindDropDownData() {
             console.log(data);
             productList = data;
              $("#ddlProduct1").data('kendoComboBox').dataSource.data(productList);
-            CreateDropdowns();
         }
     });
 }
